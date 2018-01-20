@@ -1,0 +1,1 @@
+global.BCH = require('./index');
