@@ -23,7 +23,7 @@
     "cashaddrjs": "^0.2.8",
     "uglify-es": "^3.3.7",
     "uglify-es-webpack-plugin": "^0.10.0",
-    "webpack": "^4.0.0"
+    "webpack": "^5.1.1"
   },
   "devDependencies": {
     "uglifyjs-webpack-plugin": "^1.1.6"
